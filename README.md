@@ -1,5 +1,5 @@
-## Olá meu nome é Victor Gabriel 👋
-
+## Olá, meu nome é Victor Gabriel 👋
+E sou:
 
 **Estudante de Ciência da Compuação na UFPB**
 
