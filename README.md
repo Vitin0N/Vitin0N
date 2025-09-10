@@ -15,6 +15,8 @@ E sou:
 
 ## Estatísticas
 
-![Vitin0N's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitin0N&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitin0N&theme=dracula&layout=compact)
+<p float="left" align="justify">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitin0N&show_icons=true&theme=dracula" style="height: 200px; width: auto;"/>
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitin0N&theme=dracula&layout=compact" style="height: 200px; width: auto;"/>
+</p>
