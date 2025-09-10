@@ -16,7 +16,7 @@ E sou:
 ## Estatísticas
 
 <p float="left" align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitin0N&show_icons=true&theme=dracula" style="height: 150px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vitin0N&show_icons=true&theme=dracula" style="height: 170px; width: auto;"/>
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitin0N&theme=dracula&layout=compact" style="height: 150px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitin0N&theme=dracula&layout=compact" style="height: 170px; width: auto;"/>
 </p>
