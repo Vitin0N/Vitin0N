@@ -8,15 +8,8 @@ E sou:
 
 ## Linguagens que eu utilizo
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img align="center" alt="Python" height="90" width="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<div>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Estatísticas
 
-<p float="left" align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitin0N&show_icons=true&theme=dracula" style="height: 170px; width: auto;"/>
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitin0N&theme=dracula&layout=compact" style="height: 170px; width: auto;"/>
-</p>
+![Metrics](https://metrics.lecoq.io/Vitin0N)
