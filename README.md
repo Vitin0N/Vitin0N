@@ -1,7 +1,7 @@
 ## Olá, meu nome é Victor Gabriel 👋
 E sou:
 
-**Estudante bacharelado em Ciência da Compuação na UFPB**
+**Estudante bacharelado em Ciência da Compuação na UFPB**\
 Atualmente me aventurando em projetos **FullStack**
 
 [![Instagra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitu_biell/)
@@ -16,5 +16,5 @@ Atualmente me aventurando em projetos **FullStack**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-> "If every pork chop were perfect, we wouldn't have hot dogs" - Greg Universe
-> (ps: I'm the hotdog)
+> "If every pork chop were perfect, we wouldn't have hot dogs" - Greg Universe\
+> (ps: I'm the hot dog)
