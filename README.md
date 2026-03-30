@@ -4,8 +4,21 @@ E sou:
 **Estudante bacharelado em Ciência da Compuação na UFPB**\
 Atualmente me aventurando em projetos **FullStack**
 
-[![Instagra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitu_biell/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitu_biell/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-menezes-55960a34a/)
+
+## Estátisticas
+
+<p align="center">
+  <a href="https://github.com/Pranesh-2005/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=Vitin0N&layout=compact&theme=dracula&hide_border=true&locale=pt-br&rank_icon=github&icon_color=ffffff&text_color=ffffff&title_color=ffffff&bg_color=135,0f0c29,302b63,24243e" style="width: auto; height: 200px;" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Pranesh-2005/convoychat">
+    <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Vitin0N&layout=compact&theme=dracula&hide_border=true&locale=pt-br&langs_count=8&card_width=350&text_color=ffffff&title_color=ffffff&bg_color=135,0f0c29,302b63,24243e" style="width: auto; height: 200px;" />
+  </a>
+</p>
+
+---
 
 ## Linguagens que eu utilizo
 
