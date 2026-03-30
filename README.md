@@ -11,10 +11,10 @@ Atualmente me aventurando em projetos **FullStack**
 
 <p align="center">
   <a href="https://github.com/Pranesh-2005/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=Vitin0N&layout=compact&theme=dracula&hide_border=true&locale=pt-br&rank_icon=github&icon_color=ffffff&text_color=ffffff&title_color=ffffff&bg_color=135,0f0c29,302b63,24243e" style="width: auto; height: 200px;" />
+    <img height="200" src="https://github-readme-stats-fast.vercel.app/api?username=Vitin0N&layout=compact&theme=dracula&hide_border=true&locale=pt-br&rank_icon=github&icon_color=ffffff&text_color=ffffff&title_color=ffffff&bg_color=135,0f0c29,302b63,24243e" style="width: auto; height: 150px;" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Pranesh-2005/convoychat">
-    <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Vitin0N&layout=compact&theme=dracula&hide_border=true&locale=pt-br&langs_count=8&card_width=350&text_color=ffffff&title_color=ffffff&bg_color=135,0f0c29,302b63,24243e" style="width: auto; height: 200px;" />
+    <img height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Vitin0N&layout=compact&theme=dracula&hide_border=true&locale=pt-br&langs_count=8&card_width=350&text_color=ffffff&title_color=ffffff&bg_color=135,0f0c29,302b63,24243e" style="width: auto; height: 150px;" />
   </a>
 </p>
 
